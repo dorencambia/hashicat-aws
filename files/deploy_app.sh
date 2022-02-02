@@ -10,7 +10,7 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
+  <center><h2>ACME INC</h2></center>
   Welcome to ${PREFIX}'s app. Buy ACME products. They totally work. Don't listen to libelous coyotes.
   <!-- END -->
 
